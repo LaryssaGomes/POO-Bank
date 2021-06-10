@@ -8,5 +8,5 @@ def clear():
 
 def header():
     print("****************************************")
-    print("*** School of Net - Caixa Eletrônico ***")
+    print("*********** Caixa Eletrônico ***********")
     print("****************************************")
